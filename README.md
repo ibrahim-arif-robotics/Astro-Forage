@@ -83,6 +83,7 @@ This project was designed to show how freely available earth science data can be
 
 AI was used to assist with coding and debugging, while the original idea, research, API selection, system design and hardware implementation are my own.
 
-image of device
+
+##image of device
 <img width="4032" height="3024" alt="1000327308 (1)" src="https://github.com/user-attachments/assets/262f0a26-4911-46eb-a439-9e242454ff69" />
 
