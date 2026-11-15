@@ -1,6 +1,6 @@
 # 🌱 AstroForage
 
-## 📌 NASA Hackathon Project
+## NASA Hackathon Project
 
 ### What is AstroForage?
 
@@ -30,11 +30,11 @@ Currently this project has been developed to work with Arizona, California, Flor
 
 The recommendations will be displayed on the OLED screen.
 
-## 🧑‍💻 Development
+##  Development
 
 The concept, research, API choice, design, flowchart and wiring were all done by myself.
 
-AI tools were used to help with coding. However, I had total control over the direction of the project.
+I had to learn how to use NASA API's and other also learnt about databases and json.
 
 ## 🧰 Technologies Used
 
