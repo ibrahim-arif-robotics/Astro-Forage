@@ -8,7 +8,7 @@ A plant recommendation app, using environmental data to see how climate and soil
 
 This project was designed to help farmers to find suitable native plants and crops based on the environmental conditions of their area. It combines various environmental factors and soil data to help turn freely available scientific data into actionable farming insights.
 
-## 🧠 Concept
+##  Concept
 
 This project was designed with using NASA's earth observation and environmental data in mind.
 
@@ -76,7 +76,7 @@ Ide
 
 This is currently a functioning prototype. I am currently working on verifying the data being returned from the APIs and improving the processing of the environmental data. I am also testing the screen display and making sure the ranges for the plants are accurate scientifically.
 
-## 🌟 Vision
+##  Vision
 
 This project was designed to show how freely available earth science data can be used to create helpful farming applications. This project looks at how environmental data can be used to help farmers find suitable native plants.
 ## **AI Acknowledgement**
