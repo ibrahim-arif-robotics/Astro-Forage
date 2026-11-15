@@ -58,17 +58,19 @@ Adafruit GFX
 
 Adafruit SSD1306
 
+ESP32 WIFI AND HTTPCLIENT libraries
+
 Data:
 
-NASA POWER API
-
-USDA Soil Data Access API
+NASA POWER API and USDA Soil Data Access API
 
 Testing:
 
 Wokwi
 
 Hardware testing
+
+Ide
 
 ## 🚀 Current Development
 
